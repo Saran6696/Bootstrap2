@@ -1,0 +1,11 @@
+.navbar-custom {
+    background-color: rgb(47, 61, 70);
+    height: 70px;
+}
+/* Modify brand and text color */
+ 
+.navbar-custom .navbar-brand,
+.navbar-custom  {
+    color: white;
+}
+
